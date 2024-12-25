@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Chainarong_app/static/css/main.0fae5fee.css",
-    "main.js": "/Chainarong_app/static/js/main.f1612bc7.js",
-    "static/js/453.eb16a2c1.chunk.js": "/Chainarong_app/static/js/453.eb16a2c1.chunk.js",
-    "static/media/1.jpg": "/Chainarong_app/static/media/1.a4244e1c1bdf5bb17370.jpg",
-    "static/media/logo.svg": "/Chainarong_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Chainarong_app/index.html",
-    "main.0fae5fee.css.map": "/Chainarong_app/static/css/main.0fae5fee.css.map",
-    "main.f1612bc7.js.map": "/Chainarong_app/static/js/main.f1612bc7.js.map",
-    "453.eb16a2c1.chunk.js.map": "/Chainarong_app/static/js/453.eb16a2c1.chunk.js.map"
+    "main.css": "/Kan1/static/css/main.0fae5fee.css",
+    "main.js": "/Kan1/static/js/main.aa7adb06.js",
+    "static/js/453.eb16a2c1.chunk.js": "/Kan1/static/js/453.eb16a2c1.chunk.js",
+    "static/media/1.jpg": "/Kan1/static/media/1.a4244e1c1bdf5bb17370.jpg",
+    "static/media/logo.svg": "/Kan1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kan1/index.html",
+    "main.0fae5fee.css.map": "/Kan1/static/css/main.0fae5fee.css.map",
+    "main.aa7adb06.js.map": "/Kan1/static/js/main.aa7adb06.js.map",
+    "453.eb16a2c1.chunk.js.map": "/Kan1/static/js/453.eb16a2c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fae5fee.css",
-    "static/js/main.f1612bc7.js"
+    "static/js/main.aa7adb06.js"
   ]
 }
